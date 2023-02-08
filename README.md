@@ -1,9 +1,9 @@
 # PR3-EE-Doors
 Lua code to use and make your own EE inspired doors and gates.
 
-Setup:
+Setup:\n
 1- Place your door, open door, gate, and closed gate in a grid like:
-{door, open door}
+{door, open door}\n
 {gate, closed gate}
 
 starting from x=0 and the door being at -2 y (you can change how this works from activatekey() function)
